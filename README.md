@@ -1,16 +1,25 @@
-## Hi there 👋
+### Soumya Narang
 
-<!--
-**soumya-narang/soumya-narang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+building things that feel obvious in hindsight, mostly react, typescript, and go.
 
-Here are some ideas to get you started:
+particular about frontend architecture at scale, and about ui that doesn't look like another component library demo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**currently building:** camelcode, a proper learn-ocaml resource, because nothing like it existed yet.
+
+---
+
+#### shipped
+
+**codeinsigh.** paste a c snippet, get every plausible read on what it's doing, with a "dive deeper" path into the ones that actually matter.
+
+**cadmentor.** an autocad plugin for engineering graphics. loads as a native .dll, draws the full construction steps for a given problem on a two key shortcut, resets clean for the next one.
+
+**civix.** built for google's code for community hackathon that ranks civic issues by actual severity instead of by who's shouting loudest. an ai layer reads past the noise in raw reports so local government sees the real problem set, not the trending one. go backend, react/ts frontend.
+
+**breads & bonds.** full stack commerce site for a home grown bakery, built end to end, payment gateway included.
+
+---
+
+#### stack
+
+react, typescript, go, framer motion, vercel, supabase

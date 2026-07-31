@@ -31,8 +31,8 @@
 <table width="100%" align="center">
 <tr>
 <td align="center">
-<a href="https://x.com/soumya_narang">
-<strong>Follow me on Twitter </strong>
+<a href="https://www.linkedin.com/in/soumya-narang-613a6a36b">
+<strong>Connect on LinkedIn</strong>
 <br />
 <br />
 <br />
@@ -47,8 +47,8 @@
 
 
 <td align="center">
-<a href="https://linkedin.com/in/soumya-narang">
-<strong>Connect on LinkedIn</strong>
+<a href="https://www.youtube.com/watch?v=44FId4BpMx0">
+<strong>Listen to my music</strong>
 <br />
 <br />
 

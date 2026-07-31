@@ -125,7 +125,7 @@ Operational parameters and core stack:
 
 | Parameter | Core Stack |
 | :--- | :--- |
-| **LANGUAGES** | TypeScript, Go, OCaml, C |
+| **LANGUAGES** | TypeScript, Go, Java, C/C++, JS, Python, Web3 |
 | **UI ARCHITECTURE** | React, Framer Motion, Tailwind CSS, Radix UI |
 | **INFRASTRUCTURE** | Vercel, Supabase, PostgreSQL |
 

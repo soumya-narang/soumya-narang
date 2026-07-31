@@ -3,7 +3,7 @@
   <img src="images/welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img height="50" alt="My Name is Soumya and I like TypeScript" src="images/personal_note.svg" />
+  <img height="50" alt="Hey Visitor! My Name is Soumya." src="images/personal_note.svg" />
   <br />
   <br />
 </div>
@@ -15,7 +15,7 @@
 <tr>
 <td>
   <div align="center">
-    <p><strong><font size="4" face="Courier New" color="limegreen">"I am particular about architectural integrity and UIs that transcend the standard component library aesthetic. My work is a process of distilling complex noise into high-fidelity signals."</font></strong></p>
+    <p><strong><font size="4" face="Courier New" color="limegreen">I am particular about architectural integrity and UIs that transcend the standard component library aesthetic. My work is a process of distilling complex noise into high-fidelity signals.</font></strong></p>
   </div>
   
   <p><font face="Courier New" size="3">

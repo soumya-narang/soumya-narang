@@ -28,30 +28,36 @@
 <hr />
 
 <!-- Social Links -->
-<table width="100%" align="center" border="0">
+<table width="100%" align="center">
 <tr>
-<td align="center" width="50%">
+<td align="center">
 <a href="https://x.com/soumya_narang">
 <strong>Follow me on Twitter </strong>
 <br />
 <br />
 <br />
+
 <p>
+
 <img alt="Globe" height="80" src="images/globe.gif">
-</p>
 </a>
+</p>
+
 </td>
 
-<td align="center" width="50%">
+
+<td align="center">
 <a href="https://linkedin.com/in/soumya-narang">
 <strong>Connect on LinkedIn</strong>
 <br />
 <br />
-<br />
+
+
 <p>
 <img height="100" alt="Music" src="images/music.gif"> 
-</p>
 </a>
+</p>
+
 </td>
 </tr>
 </table>

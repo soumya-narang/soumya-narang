@@ -146,7 +146,6 @@ Operational parameters and core stack:
 <!-- Guestbook -->
 | Name | Date | Message |
 |---|---|---|
-| <a href="https://github.com/BrunnerLivio"><img width="24" src="https://avatars.githubusercontent.com/u/19225746?s=24&v=4" alt="BrunnerLivio" /> BrunnerLivio</a> |7/31/2026, 8:00:00 PM|Welcome to your new guestbook! Click above to add a message.|
 <!-- /Guestbook -->
 
 <!-- Footer -->

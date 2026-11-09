@@ -135,7 +135,6 @@ Operational parameters and core stack:
 ### 🖥️ SYSTEM STATUS
 * **ACTIVE_PROCESS:** Optimizing `camelcode` for functional programming education.
 * **RESEARCH_LOG:** Investigating UI physics and architectural noise reduction.
-* **UPLINK:** [Twitter](https://x.com/soumya_narang) / [LinkedIn](https://linkedin.com/in/soumya-narang)
 
 <br />
 
